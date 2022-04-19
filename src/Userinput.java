@@ -32,6 +32,7 @@ public class Userinput {
     }
 }
 */
+/*
 public class Userinput {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -47,4 +48,4 @@ public class Userinput {
         float SI = (value1*value2*value3)/100;
         System.out.println(SI);
     }
-}
+}*/
